@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra-amjad&label=Profile%20views&color=0e75b6&style=flat" alt="nimra-amjad" /> </p>
 
-- 🌱 I’m currently learning **flutter and firebase**
+- 🌱 I’m currently learning **Flutter and Node.js**
 
-- 💬 Ask me about **Flutter, C#, Dart, Firebase etc**
+- 💬 Ask me about **Flutter, Nodejs, TypeScript, MongoD,B Firebase etc**
 
 - 📫 How to reach me **nimra.bscs2020@gmail.com**
 
