@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Node.js**
 
-- 💬 Ask me about **Flutter, Nodejs, TypeScript, MongoD,B Firebase etc**
+- 💬 Ask me about **Flutter, Nodejs, TypeScript, MongoDB, Firebase etc**
 
 - 📫 How to reach me **nimra.bscs2020@gmail.com**
 
